@@ -22,7 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
+  # Build the job
   build:
     runs-on: ubuntu-latest
     steps:
